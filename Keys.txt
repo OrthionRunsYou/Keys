@@ -1,13 +1,5 @@
 -- new keys!
 
-xxwada-23112
-xxwada-54321
-ddsa-22131
-
-Keyauth-5423
-Keyauth-3212
-
-
-Keyauth-5423
+Hwid-255A23-55SFAS-33213-4451
 
 -- Keys already Used
